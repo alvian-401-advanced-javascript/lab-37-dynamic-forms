@@ -4,7 +4,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/alvian-401-advanced-javascript/lab-37-dynamic-forms)
-* [Sandbox](https://codesandbox.io/s/class-34-solution-todo-2bjut)
+* [Sandbox](https://codesandbox.io/s/class-34-solution-todo-xmg3d
 
 ### Modules
 #### React Components
